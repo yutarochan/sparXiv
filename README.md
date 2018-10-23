@@ -1,4 +1,4 @@
-<center><img src="logo.png"></center>
+<p align='center'><img src="logo.png" width="400px"/></p>
 
 A repository for summarized machine learning papers (aka *The Sparknotes for Papers*). Inspired by [arXivTimes](https://github.com/arXivTimes/arXivTimes), a Japanese version of quick summary of papers. This can be considered as the English translateed mirror of arXivTimes.
 
